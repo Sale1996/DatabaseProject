@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1516187463 source:c:\users\sale\desktop\bp1_aleksandar_stanic_ra35-2015\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
